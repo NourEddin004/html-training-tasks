@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "portfolio",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "4183",
+        "--directory",
+        "/Users/noureddinsmacbook/Desktop/Orange Training/Repository GITHUB/html-training-tasks/Protfolio/Protfolio"
+      ],
+      "port": 4183
+    }
+  ]
+}
